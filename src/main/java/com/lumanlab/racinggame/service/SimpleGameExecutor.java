@@ -1,5 +1,6 @@
 package com.lumanlab.racinggame.service;
 
+import com.lumanlab.racinggame.domain.RacingCars;
 import com.lumanlab.racinggame.domain.value.RacingResult;
 import com.lumanlab.racinggame.utils.CarFactory;
 import com.lumanlab.racinggame.vo.InputValue;

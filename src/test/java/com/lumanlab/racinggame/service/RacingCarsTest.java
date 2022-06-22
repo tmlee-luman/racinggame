@@ -1,6 +1,7 @@
 package com.lumanlab.racinggame.service;
 
 import com.lumanlab.racinggame.domain.Car;
+import com.lumanlab.racinggame.domain.RacingCars;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;

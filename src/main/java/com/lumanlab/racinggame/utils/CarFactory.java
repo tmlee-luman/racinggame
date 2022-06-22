@@ -5,7 +5,7 @@ import com.lumanlab.racinggame.domain.Car;
 import com.lumanlab.racinggame.domain.value.Name;
 import com.lumanlab.racinggame.domain.value.Position;
 import com.lumanlab.racinggame.exception.NotInstanceException;
-import com.lumanlab.racinggame.service.RacingCars;
+import com.lumanlab.racinggame.domain.RacingCars;
 import com.lumanlab.racinggame.vo.InputValue;
 
 import java.util.List;

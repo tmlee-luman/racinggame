@@ -1,7 +1,6 @@
-package com.lumanlab.racinggame.service;
+package com.lumanlab.racinggame.domain;
 
 
-import com.lumanlab.racinggame.domain.Car;
 import com.lumanlab.racinggame.domain.value.MoveResult;
 import com.lumanlab.racinggame.domain.value.RacingResult;
 import com.lumanlab.racinggame.utils.MoveValueGenerator;
